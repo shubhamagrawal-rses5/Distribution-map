@@ -1,18 +1,19 @@
-import React, { useState } from "react";
+import React from "react";
 import "./App.css";
-import "./../src/components/CountryDist";
 import CountryDist from "./components/CountryDist";
 import CountrySubDivision from "./components/CountrySubDivision";
+import { CountryFormatedData, SubCountryINDIAFormatedData, SubCountryUSAFormatedData } from "./data/data";
 
 function App() {
-  const [country, setCountry] = useState("IN");
-  const fixCountry = (country) => {
-    setCountry(country);
-  };
+  // const [country, setCountry] = useState("IN");
+  // const fixCountry = (country) => {
+  //   setCountry(country);
+  // };
   return (
     <>
-      <CountryDist country={country} fixCountry={fixCountry}/>
-      <CountrySubDivision country={country} />
+      <CountryDist data = {CountryFormatedData} />
+      <CountrySubDivision country="IN" data={SubCountryINDIAFormatedData}/>
+      <CountrySubDivision country="US" data={SubCountryUSAFormatedData}/>
     </>
   );
 }

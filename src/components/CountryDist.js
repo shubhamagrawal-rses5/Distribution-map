@@ -1,8 +1,6 @@
 import React from "react";
 import { Chart } from "react-google-charts";
-import { Countrydata } from "./../data/data";
 
-const data = Countrydata;
 
 const options = {
   region: "world",
@@ -14,6 +12,7 @@ const options = {
 
 export default function CountryDist(props) {
   // props.fixCountry("AF")
+  const data = props.data;
   return (
     <>
       <h2>Country Distribution</h2>
@@ -23,13 +22,15 @@ export default function CountryDist(props) {
             eventName: "select",
             callback: ({ chartWrapper }) => {
               const chart = chartWrapper.getChart();
-              console.log(chart)
               const selection = chart.getSelection();
-              if (selection.length === 0) return;
-              const region = data[selection[0].row + 1];
-              console.log("Selected : " + region);
+              console.log(selection)
+              if (selection.length !== 0){
+                const region = data[selection[0].row + 1];
+                console.log("Selected : " + region);
+              }
+              
             },
-          },
+          }
         ]}
         chartType="GeoChart"
         width="100%"
