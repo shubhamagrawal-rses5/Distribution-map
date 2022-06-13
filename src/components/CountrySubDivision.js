@@ -1,14 +1,11 @@
-import React, { useState ,useEffect} from "react";
+import React, { useState, useEffect } from "react";
 import { Chart } from "react-google-charts";
 
-
-
 export default function CountrySubDivision(props) {
- 
   const [region, setRegion] = useState("IN");
-  useEffect(()=>{
-    setRegion(props.country)
-  },[props.country])
+  useEffect(() => {
+    setRegion(props.country);
+  }, [props.country]);
   const data = props.data;
 
   const options = {
@@ -19,10 +16,12 @@ export default function CountrySubDivision(props) {
     datalessRegionColor: "#DFF6FF",
     //   defaultColor: "#f5f5f5",
   };
-  
+
   return (
     <>
-      <h2>{"Detailed Country View - Subdivision Distribution " + props.country }</h2>
+      <h2>
+        {"Detailed Country View - Subdivision Distribution " + props.country}
+      </h2>
       <Chart
         chartEvents={[
           {

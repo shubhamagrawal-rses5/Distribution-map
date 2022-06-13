@@ -3031,6 +3031,2055 @@ export const SubCountryUSAFormatedData = [
   })
 //-------------------------------------------------------------------
 
+export const SubCountryViewFormatedData = [
+    ["State", "Posts"],
+  ];
+  const subCountryViewData = [
+    {
+        "c": [
+            {
+                "v": "new delhi,nct,IN"
+            },
+            {
+                "v": 328
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "mumbai,maharashtra,IN"
+            },
+            {
+                "v": 179
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bangalore,karnataka,IN"
+            },
+            {
+                "v": 151
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "hyderabad,andhra pradesh,IN"
+            },
+            {
+                "v": 114
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "chennai,tamil nadu,IN"
+            },
+            {
+                "v": 78
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "pune,maharashtra,IN"
+            },
+            {
+                "v": 57
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kolkata,bengal,IN"
+            },
+            {
+                "v": 48
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "lucknow,uttar pradesh,IN"
+            },
+            {
+                "v": 42
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "jaipur,rajasthan,IN"
+            },
+            {
+                "v": 31
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "greater noida,uttar pradesh,IN"
+            },
+            {
+                "v": 30
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "patna,bihar,IN"
+            },
+            {
+                "v": 24
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "navi mumbai,maharashtra,IN"
+            },
+            {
+                "v": 21
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "ahmadabad,gujarat,IN"
+            },
+            {
+                "v": 19
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bhubaneshwar,orissa,IN"
+            },
+            {
+                "v": 17
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "gurgaon,haryana,IN"
+            },
+            {
+                "v": 15
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "madurai,tamil nadu,IN"
+            },
+            {
+                "v": 15
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "coimbatore,tamil nadu,IN"
+            },
+            {
+                "v": 13
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "indore,madhya pradesh,IN"
+            },
+            {
+                "v": 13
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "chandigarh,chandigarh,IN"
+            },
+            {
+                "v": 12
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "puducherry,pondicherry,IN"
+            },
+            {
+                "v": 12
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "udaipur,rajasthan,IN"
+            },
+            {
+                "v": 12
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "allahabad,uttar pradesh,IN"
+            },
+            {
+                "v": 9
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "gorakhpur,haryana,IN"
+            },
+            {
+                "v": 8
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "jodhpur,rajasthan,IN"
+            },
+            {
+                "v": 8
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "ranchi,jharkhand,IN"
+            },
+            {
+                "v": 8
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "mohali,punjab,IN"
+            },
+            {
+                "v": 7
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "srinagar,kashmir,IN"
+            },
+            {
+                "v": 7
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "dahod,gujarat,IN"
+            },
+            {
+                "v": 6
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "dehradun,uttarakhand,IN"
+            },
+            {
+                "v": 6
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "nagpur,maharashtra,IN"
+            },
+            {
+                "v": 6
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "sidhi,madhya pradesh,IN"
+            },
+            {
+                "v": 6
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "vadodara,gujarat,IN"
+            },
+            {
+                "v": 6
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "ajmer,rajasthan,IN"
+            },
+            {
+                "v": 5
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bhopal,madhya pradesh,IN"
+            },
+            {
+                "v": 5
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bodh gaya,bihar,IN"
+            },
+            {
+                "v": 5
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "mihona,madhya pradesh,IN"
+            },
+            {
+                "v": 5
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bareilly,uttar pradesh,IN"
+            },
+            {
+                "v": 4
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bela,uttar pradesh,IN"
+            },
+            {
+                "v": 4
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "gwalior,madhya pradesh,IN"
+            },
+            {
+                "v": 4
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "koch bihar,bengal,IN"
+            },
+            {
+                "v": 4
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "silvassa,dadra and nagar haveli,IN"
+            },
+            {
+                "v": 4
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "vapi,gujarat,IN"
+            },
+            {
+                "v": 4
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "veraval,gujarat,IN"
+            },
+            {
+                "v": 4
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "agartala,tripura,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "amreli,gujarat,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "aurangabad,maharashtra,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "chandauli,uttar pradesh,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "cochin,kerala,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "cuttack,orissa,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "gandhi nagar,tamil nadu,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "ghaziabad,uttar pradesh,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "haridwar,uttarakhand,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "jammu,kashmir,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "jaunpur,uttar pradesh,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kota,rajasthan,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "meerut,uttar pradesh,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "muzaffarpur,bihar,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "nawalgarh,rajasthan,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "udipi,karnataka,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "ulhasnagar,maharashtra,IN"
+            },
+            {
+                "v": 3
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "agra,uttar pradesh,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "amritsar,punjab,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "ankleshwar,gujarat,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "badlapur,maharashtra,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bhiwandi,maharashtra,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "chandrapur,maharashtra,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "chittaurgarh,rajasthan,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "darbhanga,bihar,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "deoria,uttar pradesh,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "dhule,maharashtra,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "ganganagar,rajasthan,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "gulbarga,karnataka,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "haldwani,uttarakhand,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "hyderabad,telangana,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "jamshedpur,jharkhand,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kanpur,uttar pradesh,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "katihar,bihar,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kohima,nagaland,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "koraput,orissa,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kumbakonam,tamil nadu,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "mangalore,karnataka,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "manjhanpur,uttar pradesh,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "mathura,uttar pradesh,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "mundra,gujarat,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "munger,bihar,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "muzaffarnagar,uttar pradesh,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "naini tal,uttarakhand,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "phalodi,rajasthan,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "port blair,andaman and nicobar islands,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "rampur hat,bengal,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "salem,tamil nadu,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "samalkha,haryana,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "singrauli,madhya pradesh,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "sivaganga,tamil nadu,IN"
+            },
+            {
+                "v": 2
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "alwar,rajasthan,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "amethi,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "anantapur,andhra pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "arcot,tamil nadu,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "athni,karnataka,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bagalkot,karnataka,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bahraich,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "baj baj,bengal,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "balod,chhattisgarh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "basti,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bharatpur,rajasthan,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bhavnagar,gujarat,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bhilai,chhattisgarh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bhuj,gujarat,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bihar sharif,bihar,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bijnor,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "bikaner,rajasthan,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "budaun,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "buxar,bihar,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "cannanore,kerala,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "chaksu,rajasthan,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "cuddapah,andhra pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "daltenganj,jharkhand,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "daman,daman and diu,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "damoh,madhya pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "delhi,nct,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "deoband,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "depalpur,madhya pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "dhanbad,jharkhand,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "dharampur,gujarat,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "dharmsala,himachal pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "dindigul,tamil nadu,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "diu,daman and diu,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "etawa,madhya pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "faridabad,haryana,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "giridih,jharkhand,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "gonda,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "gumla,chhattisgarh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "guwahati,assam,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "haora,bengal,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "hassan,karnataka,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "hindupur,andhra pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "hubli,karnataka,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "ingraj bazar,bengal,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "jabalpur,madhya pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "jagdalpur,chhattisgarh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "jaisalmer,rajasthan,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "jamnagar,gujarat,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "jind,haryana,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kaithal,haryana,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kannauj,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kanniyakumari,tamil nadu,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kapurthala,punjab,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "karchana,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "karjat,maharashtra,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "khammam,andhra pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kharagpur,bihar,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kolar,karnataka,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kolkata,west bengal,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kollam,kerala,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "korba,chhattisgarh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kottayam,kerala,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "kozhikode,kerala,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "latur,maharashtra,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "madhubani,bihar,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "madikeri,karnataka,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "mandi,himachal pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "mandvi,gujarat,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "mirzapur,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "morbi,gujarat,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "morena,madhya pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "motihari,bihar,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "mubarakpur,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "muktsar,punjab,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "mysore,karnataka,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "namakkal,tamil nadu,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "nanded,maharashtra,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "nangal township,punjab,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "narsimhapur,madhya pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "nashik,maharashtra,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "new delhi,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "orai,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "panaji,goa,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "panvel,maharashtra,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "patiala,punjab,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "phulabani,orissa,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "puri,orissa,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "puruliya,bengal,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "raigarh fort,maharashtra,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "raipur,chhattisgarh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "ranbirsinghpora,kashmir,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "renigunta,andhra pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "rohtak,haryana,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "roorkee,uttarakhand,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "sambalpur,orissa,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "sambhal,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "savanur,karnataka,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "seoni,himachal pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "shimla,himachal pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "shimoga,karnataka,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "shrirampur,bengal,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "silchar,assam,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "thanjavur,tamil nadu,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "tirunelveli,tamil nadu,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "tiruppur,tamil nadu,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "ujjain,madhya pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "varanasi,uttar pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "vishakhapatnam,andhra pradesh,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "walajapet,tamil nadu,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "v": "wardha,maharashtra,IN"
+            },
+            {
+                "v": 1
+            }
+        ]
+    }
+]
+  subCountryViewData.forEach((element)=>{
+      SubCountryViewFormatedData.push([element.c[0].v,element.c[1].v ])
+  })
+//-------------------------------------------------------------------
 
 // export const Markersdata = [
 //   ["City", "Population", "Area"],
