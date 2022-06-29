@@ -22,9 +22,9 @@ export default function CountryDistributionView(props) {
 
   return (
     <>
-      <h2>
+      <h1>
         {"Detailed Country View - " + props.country}
-      </h2>
+      </h1>
       <Chart
         chartType="GeoChart"
         width="100%"

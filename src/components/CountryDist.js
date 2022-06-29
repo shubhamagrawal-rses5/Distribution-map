@@ -1,7 +1,6 @@
 import React from "react";
 import { Chart } from "react-google-charts";
 
-
 const options = {
   region: "world",
   colorAxis: { colors: ["#47B5FF", "#1363DF", "#06283D"] },
