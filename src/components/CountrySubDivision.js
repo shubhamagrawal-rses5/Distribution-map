@@ -29,11 +29,6 @@ export default function CountrySubDivision(props) {
             callback: ({ chartWrapper }) => {
               const chart = chartWrapper.getChart();
               const selection = chart.getSelection();
-              console.log(selection);
-              if (selection.length !== 0) {
-                const region = data[selection[0].row + 1];
-                console.log("Selected : " + region);
-              }
             },
           },
         ]}
