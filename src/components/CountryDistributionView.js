@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Chart } from "react-google-charts";
+import '../App.css'
 
 export default function CountryDistributionView(props) {
   const [region, setRegion] = useState("IN");
@@ -20,7 +21,7 @@ export default function CountryDistributionView(props) {
   };
 
   return (
-    <>
+    <div className="container">
       <h2>{"Detailed Country View - " + props.country}</h2>
       <Chart
         chartType="GeoChart"
@@ -30,6 +31,6 @@ export default function CountryDistributionView(props) {
         options={options}
         mapsApiKey="AIzaSyATwbzs2QohcNsG31ErEkkKD2DciXXSFYw"
       />
-    </>
+    </div>
   );
 }

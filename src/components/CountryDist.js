@@ -1,6 +1,6 @@
 import React from "react";
 import { Chart } from "react-google-charts";
-
+import '../App.css'
 const options = {
   region: "world",
   colorAxis: { colors: ["#47B5FF", "#1363DF", "#06283D"] },
@@ -13,7 +13,7 @@ export default function CountryDist(props) {
   // props.fixCountry("AF")
   const data = props.data;
   return (
-    <>
+    <div className="container">
       <h2>Country Distribution</h2>
       <Chart
         chartEvents={[
@@ -36,6 +36,6 @@ export default function CountryDist(props) {
         data={data}
         options={options}
       />
-    </>
+      </div>
   );
 }

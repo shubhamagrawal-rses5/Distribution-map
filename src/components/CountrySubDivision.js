@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Chart } from "react-google-charts";
+import '../App.css'
 
 export default function CountrySubDivision(props) {
   const [region, setRegion] = useState("IN");
@@ -18,7 +19,7 @@ export default function CountrySubDivision(props) {
   };
 
   return (
-    <>
+    <div className="container">
       <h2>
         {"Detailed Country View - Subdivision Distribution " + props.country}
       </h2>
@@ -38,6 +39,6 @@ export default function CountrySubDivision(props) {
         data={data}
         options={options}
       />
-    </>
+    </div>
   );
 }

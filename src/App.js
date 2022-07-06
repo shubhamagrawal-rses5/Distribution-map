@@ -16,12 +16,12 @@ function App() {
   //   setCountry(country);
   // };
   return (
-    <>
+    <div className="outerContainer">
       <CountryDist data={CountryFormatedData} />
       <CountrySubDivision country="IN" data={SubCountryINDIAFormatedData} />
       <CountrySubDivision country="US" data={SubCountryUSAFormatedData} />
       <CountryDistributionView data={SubCountryViewFormatedData} country="IN" />
-    </>
+    </div>
   );
 }
 
